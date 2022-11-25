@@ -53,6 +53,11 @@ body{
 	color: #af0505;
 }
 
+.containerp{
+    text-align: center;
+    color: gold;
+}
+
 /*----------------- Estilos Section Procesador -----------------*/
 
 .containerpcd{
@@ -98,7 +103,8 @@ body{
 .titulopcd{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    color: white;
+    color: var(--red-medium);
+    background-color: ghostwhite;
 }
 
 .link a{
